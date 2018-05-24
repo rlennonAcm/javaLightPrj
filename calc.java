@@ -12,7 +12,7 @@ public class calc
 		System.out.println("Enter Num 2: ");
 		num2 = input.nextInt();
 			/*calculate the addition and print to screen*/
-		System.out.println("RL Answer " + (num1+num2));
+		System.out.println("Answer " + (num1+num2));
 	}
 }
 
